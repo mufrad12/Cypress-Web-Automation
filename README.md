@@ -1,5 +1,5 @@
 # Cypress Web Automation
-Tested an Website to make an appointment by using cypress framework.
+Tested a Website to make an appointment by using cypress framework.
 
 ### Prerequisites :
 - Install Nodejs latest version
